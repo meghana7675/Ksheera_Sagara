@@ -22,23 +22,18 @@ Ksheera Sagara is a dairy management Android application that helps farmers mana
 - jetpack compose
 ---
 
-## 📸 Screenshots
-
-### Home Screen
-![Home](C:\Users\megha\Downloads\images\home.png)
-
-### Add Milk Entry
-![Add Milk](screenshots/milk_income.png)
-
-### Reports
-![Reports](screenshots/reports.png)
-
----
 
 ## 🎯 Objective
-To digitize dairy farm management and reduce manual calculation errors.
+To digitize dairy farm management and reduce manual calculation errors by providing an automated, transparent, and efficient digital solution for milk collection and payment processing.
 
 ---
+
+## 📊 Benefits
+Reduces human errors in milk payment calculations
+Saves time in record maintenance
+Improves transparency between farmers and dairy centers
+Enables easy access to historical milk data
+Enhances efficiency of dairy operations
 
 ## 👩‍💻 Developer
 Meghana N K
